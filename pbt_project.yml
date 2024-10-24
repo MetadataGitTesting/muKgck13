@@ -1,0 +1,49 @@
+name: theressa.christiansen
+description: directional
+version: 0.0.1
+author: oyhfiwxp.jlfaa5ys@n8uqcwxv.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: theressachristiansen
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 21:59:55'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 21:59:55'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T21:59:55.580704Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '928826337'
+  createdAt: '2024-10-24T21:59:55.580704Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
